@@ -1,0 +1,5 @@
+couch,rectangle,0,396,407,665
+couch,rectangle,557,372,925,617
+vase,rectangle,450,371,513,493
+vase,rectangle,506,452,568,516
+tv,rectangle,309,170,485,289
